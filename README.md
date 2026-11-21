@@ -1,17 +1,20 @@
-# eraa_soft_grocery_app
 
-A new Flutter project.
+# Eraa Soft Grocery App
 
-## Getting Started
+A Flutter Grocery App UI project.
 
-This project is a starting point for a Flutter application.
+## 📱 App Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### 1. Login Screen
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+![Login Screen](images/login_screen_image.PNG)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 2. Signup Screen
+
+![Signup Screen](images/Signup_screen_image.PNG)
+
+## 🛠️ Built With
+
+- Flutter
+- Dart
+
