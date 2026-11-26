@@ -110,14 +110,14 @@ class LoginScreen extends StatelessWidget {
                               color: Color(0xff53B175),
                           
                           ),
+                          width: 364,
+                          height:67 ,
                           child: Center(child:  Text("Log In",
                           style: TextStyle(
                           fontSize: 18,
                           fontWeight: FontWeight(600) ,
                           color: Color(0xffFFF9FF),
                         ))),
-                          width: 364,
-                          height:67 ,
                       ),
                        SizedBox(height: 25,),
                          /* 8  don’t have an account?Sign Up    */

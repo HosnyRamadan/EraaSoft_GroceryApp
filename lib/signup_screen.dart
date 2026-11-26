@@ -123,16 +123,16 @@ class SignUPScreen extends StatelessWidget {
                          Row(
                           mainAxisAlignment: MainAxisAlignment.start,
                           children: [
-                              Text("By continuing you agree to our Terms ",
+                              Text("By continuing  agree to our Terms ",
                           style: TextStyle(
-                          fontSize: 14,
+                          fontSize: 12,
                           color: Color(0xff7C7C7C),
                         )
                         ),
               
-                          Text("Terms of Service",
+                          Text("TermsOfService",
                           style: TextStyle(
-                          fontSize: 14,
+                          fontSize: 12,
                           color: Color(0xff53B175),
                         )
                         )
@@ -168,14 +168,14 @@ class SignUPScreen extends StatelessWidget {
                               color: Color(0xff53B175),
                           
                           ),
+                          width: 364,
+                          height:67 ,
                           child: Center(child:  Text("Sing Up",
                           style: TextStyle(
                           fontSize: 18,
                           fontWeight: FontWeight(600) ,
                           color: Color(0xffFFF9FF),
                         ))),
-                          width: 364,
-                          height:67 ,
                       ),
                        SizedBox(height: 25,),
                          /* 10 Already have an account? LogIn    */
