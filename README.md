@@ -1,17 +1,15 @@
-# eraa_soft_grocery_app
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="images/login_screen_image.PNG" width="100%" alt="Login Screen"/>
+      <p><b>Login Screen</b></p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="images/Signup_screen_image.PNG" width="100%" alt="Signup Screen"/>
+      <p><b>Signup Screen</b></p>
+    </td>
+  </tr>
+</table>
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
