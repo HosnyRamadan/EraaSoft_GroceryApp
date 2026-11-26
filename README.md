@@ -11,7 +11,7 @@
         </td>
     <td width="33%" valign="top" align="center">
       <img src="images/home_screen_image.jpeg" width="100%" alt="Home Screen"/>
-      <p><b>Signup Screen</b></p>
+      <p><b>Home Screen</b></p>
     </td>
   </tr>
 </table>
